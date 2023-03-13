@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to yttrx!"
 date:   2023-03-12 12:58:58 -0700
-categories: yttrx update
+categories: help
 ---
 [yttrx][yttrx-com] is a [Mastodon][joinmastodon] community server for english users operated out of Canada and the USA.
 
@@ -25,7 +25,7 @@ This should be enough to get your started. Follow some users, boost some content
 
 There is no single Mastodon server. Instead it's a collection of community run instances, or "community servers". Ours is `masto.yttrx.com`. This is where your account lives if you signed up with us, and it will be the basis of your username, for example [`@waffles@masto.yttrx.com`][waffles] is one of the admins (go say hi!). 
 
-Community servers will communicate with other community servers to share posts, likes, boosts, etc.  It's the responsibility of each community server to set rules and enforce these rules via moderation to create a safe and enjoyable experience for its users.
+Community servers will communicate with other community servers to share posts, likes, boosts, etc.  It's the responsibility of each community server to set [rules][yttrx-rules] and enforce these rules via moderation to create a safe and enjoyable experience for its users.
 
 
 [yttrx-com]: https://yttrx.com/
@@ -36,3 +36,4 @@ Community servers will communicate with other community servers to share posts, 
 [yttrx-explore]: https://yttrx.com/explore
 [yttrx-tags]: https://yttrx.com/explore/tags
 [yttrx-suggestions]: https://yttrx.com/explore/suggestions
+[yttrx-rules]: https://yttrx.com/about/
