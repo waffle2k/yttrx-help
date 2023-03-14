@@ -32,6 +32,10 @@ One way to think about how Mastodon works is to think about email. When you sign
 Mastodon is similar. Your full username looks like 
 '@username@masto.yttrx.com;' people can follow you at this address, and you can follow people on other instances as long as you have their full username that looks like that. And don't worry if you still don't quite get it! Mastodon makes finding and following people pretty easy. So see the tips above for finding and following people and just jump in! 🤠
 
+## (Almost) everything you wanted to know about Mastodon
+
+If you're finding that you have more questions than answers, then you might enjoy [the increasingly less brief guide to Mastodon][guide-to-mastodon]. It's a great resource.
+
 [yttrx-com]: https://yttrx.com/
 [masto]: https://masto.yttrx.com/
 [joinmastodon]: https://joinmastodon.org/
@@ -41,3 +45,4 @@ Mastodon is similar. Your full username looks like
 [yttrx-tags]: https://yttrx.com/explore/tags
 [yttrx-suggestions]: https://yttrx.com/explore/suggestions
 [yttrx-rules]: https://yttrx.com/about/
+[guide-to-mastodon]: https://github.com/joyeusenoelle/GuideToMastodon/
